@@ -1,0 +1,7 @@
+machinable
+torch
+torchvision
+ray
+ipython
+jupyter
+jupyterlab_launcher
