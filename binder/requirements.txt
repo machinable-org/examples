@@ -1,7 +1,5 @@
 machinable
-torch
-torchvision
-ray
+sklearn
 ipython
-jupyter
+jupyterlab
 jupyterlab_launcher

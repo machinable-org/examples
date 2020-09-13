@@ -1,0 +1,3 @@
+components:
+ - ridge_regression:
+     alpha: 0.6
